@@ -1,0 +1,1 @@
+This program creates a square 2D array by reading data from the input file. Then it checks whether that square is a magic square or not.
