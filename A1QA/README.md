@@ -1,1 +1,1 @@
-- test text -
+This program creates a valid seating plan for any number of passengers provided.
