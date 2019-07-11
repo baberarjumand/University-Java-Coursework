@@ -1,0 +1,1 @@
+This program creates simulates an electronic date book for tracking upcoming events in a personal schedule.
