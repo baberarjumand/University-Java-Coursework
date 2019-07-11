@@ -1,0 +1,1 @@
+This program simulates a shopping list created from an input file.
