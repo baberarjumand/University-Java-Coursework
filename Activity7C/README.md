@@ -1,0 +1,1 @@
+This program sorts items in an array of custom class objects using selection sort.
