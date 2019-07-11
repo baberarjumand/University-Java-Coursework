@@ -1,0 +1,1 @@
+This program reads data from a text file and summarizes information about gold medallists in the dataset.
