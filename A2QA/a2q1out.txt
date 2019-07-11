@@ -1,0 +1,96 @@
+Count of gold medallists by country:
+ITA - 8
+POL - 3
+KEN - 5
+CHN - 51
+TUN - 1
+USA - 36
+RUS - 23
+NED - 7
+SVK - 3
+GER - 16
+BRA - 3
+BRN - 1
+KOR - 13
+PRK - 2
+GBR - 19
+SUI - 2
+UKR - 7
+CZE - 3
+ROU - 4
+SLO - 1
+AUS - 14
+JPN - 9
+CUB - 2
+NOR - 3
+JAM - 6
+POR - 1
+INA - 1
+ARG - 2
+FRA - 7
+TUR - 1
+CAN - 3
+KAZ - 2
+ETH - 4
+MGL - 2
+HUN - 3
+MEX - 2
+CMR - 1
+ESP - 5
+BEL - 1
+BLR - 4
+ZIM - 1
+NZL - 3
+DOM - 1
+EST - 1
+BUL - 1
+LAT - 1
+FIN - 1
+PAN - 1
+GEO - 3
+IND - 1
+THA - 2
+UZB - 1
+DEN - 2
+AZE - 1
+IRI - 1
+
+Count of gold medallists by event type:
+Fencing - 10
+Rowing - 14
+Athletics - 47
+Diving - 8
+Swimming - 34
+Canoe/Kayak - Flatwater - 12
+Gymnastics Artistic - 14
+Synchronized Swimming - 2
+Volleyball - 2
+Water Polo - 2
+Sailing - 11
+Canoe/Kayak - Slalom - 4
+Weightlifting - 15
+Judo - 14
+Equestrian - 6
+Taekwondo - 8
+Cycling - Road - 4
+Boxing - 11
+Shooting - 15
+Hockey - 2
+Gymnastics Rhythmic - 2
+Wrestling - 18
+Cycling - Track - 10
+Badminton - 5
+Beach Volleyball - 2
+Tennis - 4
+Cycling - Mountain Bike - 2
+Cycling - BMX - 2
+Softball - 1
+Trampoline - 2
+Archery - 4
+Table Tennis - 4
+Football - 2
+Basketball - 2
+Triathlon - 2
+Handball - 2
+Baseball - 1
+Modern Pentathlon - 2
